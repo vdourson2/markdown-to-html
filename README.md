@@ -1,8 +1,8 @@
 # markdown-to-html
-Becode exercise : first steps in HTML : convert markdown to HTML
+Becode exercise : first steps in HTML and CSS: convert markdown to HTML with some CSS.
 
 ## Briefing
-Convert a personal profile page created in Markdown ([mardown-challenge ](https://github.com/vdourson2/markdown-challenge) repository) to HTML.
+Convert a personal profile page created in Markdown ([mardown-challenge ](https://github.com/vdourson2/markdown-challenge) repository) to HTML and CSS.
 
 [Instructions](https://github.com/becodeorg/CRL-KELLER-6/tree/main/1.TRAIL/1.The-Field/4.HTML-CSS) for the exercise.
 
@@ -16,4 +16,5 @@ Virginie Dourson
 08/2023
 
 ## Progression
-Finished work
+Finished HTML
+CSS in progress
